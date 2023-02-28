@@ -1,0 +1,48 @@
+#titleBar {
+background-color:lightgreen;
+color:green;
+text-align:center;
+}
+
+body{
+ background-color: purple;
+  background-image: url('https://garden.spoonflower.com/c/8460015/p/f/m/u0Td2P23PWcO_Lzha8kF7SavNavXgi05uDeQJo2-_MEFpGWYQgFIMw/Ombre%20Pink%20and%20%20Purple.jpg');
+}
+
+#row{
+color: blue;
+}
+
+h1{
+  text-align: center;
+  color:purple;
+}
+
+h4{
+  text-align: center;
+  color: purple;
+}
+
+.container-fluid{
+  color:purple;
+}
+
+div{
+  background-color: purple;
+}
+
+.card img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.navbar{
+  background-color: green;
+}
+
+h1
+h4
+.titleBar{
+text-align:center;
+}
